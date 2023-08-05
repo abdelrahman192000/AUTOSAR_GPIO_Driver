@@ -1,0 +1,22 @@
+# ninja log v5
+19	219	7002488837305450	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/main.o	852b695cc87cb7d3
+7	224	7002488837285511	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/Dio_PBcfg.o	6a6f7f6bfdc721b7
+0	231	7002488837350614	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/App.o	feba3209eb4b752d
+11	252	7002488837592957	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/Dio.o	d4c5094f8ff7bce0
+226	283	7002488837996362	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/Det.o	253a179a0b58fd78
+4	288	7002488837871617	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/Gpt.o	6482aef850267933
+14	293	7002488837742968	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/Led.o	c56ccd0d25f234c6
+220	304	7002488838061308	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/Os.o	f55c79e60ccb9ae7
+233	305	7002488838148847	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/cstartup_M.o	7bcd72467e485148
+254	322	7002488838396923	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/Button.o	7f6765cfaac92db7
+290	336	7002488838533018	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/Port_PBcfg.o	269ba7471202e84f
+284	409	7002488839273413	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/Port.o	b0066e1bfc42469e
+410	698	7002488842196424	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Exe/c.out	f6640d7b608d8160
+1	112	7002492340192390	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/App.o	feba3209eb4b752d
+8	137	7002492340454273	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/Port_PBcfg.o	269ba7471202e84f
+4	215	7002492341126725	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/Port.o	b0066e1bfc42469e
+217	251	7002492341629534	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Exe/c.out	f6640d7b608d8160
+4	42	7002493421658455	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/Port_PBcfg.o	269ba7471202e84f
+1	50	7002493421693324	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/App.o	feba3209eb4b752d
+8	130	7002493422535968	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Obj/Port.o	b0066e1bfc42469e
+132	164	7002493422912669	C:/Users/usedn/Downloads/Autosar_Project/AUTOSAR_Project/Debug/Exe/c.out	f6640d7b608d8160
